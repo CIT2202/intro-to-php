@@ -10,7 +10,7 @@ Open a browser and go to https://sourceforge.net/projects/xampp/files/XAMPP%20Wi
 
 Download *xampp-portable-windows-x64-7.3.20-0-VC15.zip*. Unzip the resulting file into the **root** of your USB drive. It might take a bit of time.
 
-> What do I mean by the root of the USB? When you view the files on the USB there should be a folder called XAMPP. You shouldn't have to click into any other folders first. When you go into the XAMPP folder there should be a file called xampp-control.exe.
+> What do I mean by the root of the USB? When you view the files on the USB there should be a folder called XAMPP. You shouldn't have to click into any other folders first. When you go into the XAMPP folder there should be a file called xampp-control.exe. So the following would be correct D:\xampp\control.exe, and this would be incorrect D:\xampp-portable-windows-x64-7.3.20-0-VC15\xampp\control.exe.
 
 * Navigate to this folder and click on xampp-control.exe.
 * You might need to select a language
@@ -27,7 +27,7 @@ Check the following:
 ## Where do I put my HTML, CSS and PHP files?
 Your web applications are run from the *htdocs* folder.
 * Navigate to the *htdocs* folder
-* Create a new folder e.g. CIT2318
+* Create a new folder e.g. CIT2202
 * Create a simple php page e.g. *test.php* and save it in the *CIT2202* folder
 * Navigate to http://localhost/CIT2202/test.php to check it works.
 
