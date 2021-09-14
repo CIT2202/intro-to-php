@@ -22,7 +22,7 @@ Download *xampp-portable-windows-x64-7.3.20-0-VC15.zip*. Unzip the resulting fil
 ## What to do if it doesn't work
 Check the following:
 1. You have downloaded the correct version. MAKE SURE YOU USE THE .zip. DON'T USE THE .exe.
-2. You have unzipped the folder into the root of you USB drive. Do not put in a sub-folder.
+2. You have unzipped the folder into the root of you USB drive. Do not put it in a sub-folder.
 
 ## Where do I put my HTML, CSS and PHP files?
 Your web applications are run from the *htdocs* folder.
