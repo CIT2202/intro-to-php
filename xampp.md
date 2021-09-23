@@ -6,11 +6,11 @@ The following explains how to install XAMPP (Cross-platform(X), Apache(A),Mysql/
 
 Installing and getting up and running with XAMPP is easy but you need to make sure you download the correct version. I'm suggesting we use PHP version 7.3, and you need to **MAKE SURE YOU DOWNLOAD THE ZIP AND NOT THE .EXE**.
 
-Open a browser and go to https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.3.20/
+Open a browser and go to https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.23/
 
-Download *xampp-portable-windows-x64-7.3.20-0-VC15.zip*. Unzip the resulting file into the **root** of your USB drive. It might take a bit of time.
+Download *xampp-windows-x64-7.4.23-0-VC15.zip*. Unzip the resulting file into the **root** of your USB drive. It might take a bit of time.
 
-> What do I mean by the root of the USB? When you view the files on the USB there should be a folder called XAMPP. You shouldn't have to click into any other folders first. When you go into the XAMPP folder there should be a file called xampp-control.exe. So the following would be correct D:\xampp\control.exe, and this would be incorrect D:\xampp-portable-windows-x64-7.3.20-0-VC15\xampp\control.exe.
+> What do I mean by the root of the USB? When you view the files on the USB there should be a folder called XAMPP. You shouldn't have to click into any other folders first. When you go into the XAMPP folder there should be a file called xampp-control.exe. So the following would be correct D:\xampp\control.exe, and this would be incorrect D:\xampp-portable-windows-x64-7.4.23-0-VC15\xampp\control.exe.
 
 * Navigate to this folder and click on xampp-control.exe.
 * You might need to select a language
