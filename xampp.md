@@ -8,7 +8,7 @@ Installing and getting up and running with XAMPP is easy but you need to make su
 
 Open a browser and go to https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.1.6/
 
-Download *xampp-windows-x64-7.4.23-0-VC15.zip*. Unzip the resulting file into the **root** of your USB drive. It might take a bit of time.
+Download *xampp-windows-x64-8.1.6-0-VS16.zip*. Unzip the resulting file into the **root** of your USB drive. It might take a bit of time.
 
 > What do I mean by the root of the USB? When you view the files on the USB there should be a folder called XAMPP. You shouldn't have to click into any other folders first. When you go into the XAMPP folder there should be a file called xampp-control.exe. So the following would be correct D:\xampp\control.exe, and this would be incorrect D:\xampp-portable-windows-x64-8.1.6-0-VC15\xampp\control.exe.
 
