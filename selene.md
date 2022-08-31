@@ -5,7 +5,7 @@
 * Enter the following settings
   * Host: sftp://selene.hud.ac.uk
   * Username: u0123456 (your student number)
-  * Password : The same password you use to log into the university PCs
+  * Password : You should have been emailed a password from scenweb@hud.ac.uk
   * Click 'Quickconnect'.
 
 You should then be able to move files from the local machine to your user space on the Selene web server.
